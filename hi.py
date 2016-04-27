@@ -7,7 +7,7 @@ badges=0
 money=500
 mode = "unknown"
 import random
-print ("Something World v.0.01              by Jiale Yu")
+print ("Something World v.0.21              by Jiale Yu")
 print ("If you wanna see the C++ version, which is a lot faster, you can contact Gabriel, or if you want the Javascript version, contact Chun Kang Lu.")
 print ("")
 print ("_\~ () |\/| [- ~|~ |-| | |\| (_,   \/\/ () /? |_ |) ")
